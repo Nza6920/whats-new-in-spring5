@@ -1,4 +1,4 @@
-package stream.p2;
+package com.niu.stream.p2;
 
 import lombok.extern.slf4j.Slf4j;
 import org.junit.jupiter.api.Test;

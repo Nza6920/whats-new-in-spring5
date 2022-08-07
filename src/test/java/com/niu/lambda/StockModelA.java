@@ -1,4 +1,4 @@
-package lambda.p6;
+package com.niu.lambda;
 
 import lombok.Getter;
 import lombok.ToString;

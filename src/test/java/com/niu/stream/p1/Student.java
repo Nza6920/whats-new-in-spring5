@@ -1,4 +1,4 @@
-package stream.p1;
+package com.niu.stream.p1;
 
 import lombok.Builder;
 import lombok.Data;
